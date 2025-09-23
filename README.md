@@ -88,18 +88,22 @@ A lot of material to get up to speed with SAP Integration Suite, advanced event 
 
 - Blogs
 
-    - [SAPs Event-Driven Ecosystem](https://blogs.sap.com/2022/09/01/saps-event-driven-ecosystem-revisited/)
-    - [Advanced Event Mesh](https://blogs.sap.com/2022/10/28/turn-your-erp-into-a-team-player-introducing-sap-integration-suite-advanced-event-mesh/ )
-    - [Advanced Event Mesh Details](https://blogs.sap.com/2023/10/26/sap-advanced-event-mesh-create-your-first-event-broker/)
+    - [AEM Blog Post Collection](https://community.sap.com/t5/technology-blog-posts-by-sap/sap-integration-suite-advanced-event-mesh-blog-collection/ba-p/14111943)
+
+- Tutorials and Missions
+
+    - [Discovery Center Mission: Get started with AEM](https://discovery-center.cloud.sap/missiondetail/4582/4870/)
 
 - Videos
 
-    - [Discover Event-driven Integrations](https://www.youtube.com/watch?v=r9lyC_2ss2U)
-    - [SAP on Azure](https://www.youtube.com/watch?v=NNrzXbX3mk0)
+    - [Devtoberfest 2024: Discover SAP Event Sources for Advanced Event Mesh](https://www.youtube.com/watch?v=NujHueCBDOw)
 
 - Documentation
 
     - [Help](https://help.pubsub.em.services.cloud.sap/Cloud/cloud-lp.htm)
+    - [SAP Discovery Center - AEM](https://discovery-center.cloud.sap/serviceCatalog/advanced-event-mesh?region=all)
+    - [Advanced Event Mesh Tutorials](https://help.pubsub.em.services.cloud.sap/Cloud/ggs_signup.htm)
+    - [SAP EDA Strategy Paper](https://d.dam.sap.com/a/LFK8XBY/SAP%20EDA%20Extended%20Paper%20101424%20v7.pdf?rc=10&inline=true)
 
 ## License
 Copyright (c) 2024 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
