@@ -45,7 +45,11 @@ SAP Integration Suite, advanced event mesh features touched, some just shortly, 
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+Preparation and Setup
+
+- [Getting Started](exercises/ex0/)
+
+SAP Integration Suite, advanced event mesh
 
 - [Exercise 1 - Explore SAP Integration Suite, advanced event mesh](exercises/ex1/)
 
