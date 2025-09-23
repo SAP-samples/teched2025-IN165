@@ -1,10 +1,14 @@
 # IN 165 - Experience event-driven integration with advanced event mesh
 
+![Pic 1](images/IN165-1.png)
+
 ## Description
 
 Explore the powerful features of SAP Integration Suite, advanced event mesh. Start with core event-driven architecture elements like queues and topics, then dive into advanced topics and filtering to simulate a social media–like experience. Finally, try out advanced capabilities such as event replay.
 
 ## Overview
+
+![Pic 2](images/IN165-2.png)
 
 SAP Integration Suite, advanced event mesh is a fully managed event streaming and management service that enables enterprise-wide and enterprise-grade event-driven architecture. It is a full blown, general purpose Event Mesh. AEM offers enterprise-grade performance, reliability, security and governance. It scales to very large use cases – and very means very very very in this case.
 
@@ -43,13 +47,27 @@ SAP Integration Suite, advanced event mesh features touched, some just shortly, 
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+- [Exercise 1 - Explore SAP Integration Suite, advanced event mesh](exercises/ex1/)
+
+    - [Exercise 1.1 - Log into Advanced Event Mesh and Explore it](exercises/ex1#exercise-11---log-into-advanced-event-mesh-and-explore-it)
+    - [Exercise 1.2 - Create a Queue in Advanced Event Mesh ](exercises/ex1#exercise-12---create-a-queue-in-advanced-event-mesh)
+    - [Exercise 1.3 - Create a Subscription in Advanced Event Mesh](exercises/ex1#exercise-13---create-a-queue-subscription-in-advanced-event-mesh)
+    - [Exercise 1.4 - Send an event from the Try Me! Tool to your Topic](exercises/ex1#exercise-14---send-an-event-from-the-try-me-tool-to-your-topic)
+
+- [Exercise 2 - Topic Hierarchies](exercises/ex2/)
+
+    - [Exercise 2.1 - Learn about Topic Hierarchies and Wildcards](https://github.com/SAP-samples/teched2023-IN265/blob/main/exercises/ex2/README.md#exercise-21-learn-about-topic-hierarchies-and-wildcards)
+    - [Exercise 2.2 - Practice Topic Hierarchies and Wildcards using Try Me !](https://github.com/SAP-samples/teched2023-IN265/blob/main/exercises/ex2/README.md#exercise-22-practice-topic-hierarchies-and-wildcards-using-try-me----animal-edition)   
+
+- [Exercise 3 - Persistent and Non-Persistent Quality of Service](exercises/ex3/)
+
+    - [Exercise 3.1 - Learn about Persistency and QoS](exercises/ex3#exercise-31-learn-about-delivery-modes-persistency-and-quality-of-service)
+    - [Exercise 3.2 - Experimenting with Persistency](exercises/ex3#experimenting-with-persistency)
+
+- [Exercise 4 - Event Replay](exercises/ex4/)
+
+    - [Exercise 4.1 - Learn about Replay](exercises/ex4/README.md#exercise-41-learn-about)
+    - [Exercise 4.2 - Experimenting with Replay](exercises/ex4/README.md#exercise-42-experimenting-with-replay)
 
 
 ## User Data and Password
@@ -65,7 +83,22 @@ Please read the [SAP Open Source Code of Conduct](https://github.com/SAP-samples
 
 ## Background Material
 
+A lot of material to get up to speed with SAP Integration Suite, advanced event mesh is available.
 
+- Blogs
+
+    - [SAPs Event-Driven Ecosystem](https://blogs.sap.com/2022/09/01/saps-event-driven-ecosystem-revisited/)
+    - [Advanced Event Mesh](https://blogs.sap.com/2022/10/28/turn-your-erp-into-a-team-player-introducing-sap-integration-suite-advanced-event-mesh/ )
+    - [Advanced Event Mesh Details](https://blogs.sap.com/2023/10/26/sap-advanced-event-mesh-create-your-first-event-broker/)
+
+- Videos
+
+    - [Discover Event-driven Integrations](https://www.youtube.com/watch?v=r9lyC_2ss2U)
+    - [SAP on Azure](https://www.youtube.com/watch?v=NNrzXbX3mk0)
+
+- Documentation
+
+    - [Help](https://help.pubsub.em.services.cloud.sap/Cloud/cloud-lp.htm)
 
 ## License
 Copyright (c) 2024 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
