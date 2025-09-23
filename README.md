@@ -82,9 +82,6 @@ handson_XXX@education.cloud.sap (e.g. handson_012@education.cloud.sap)
 
 The password will be provided to you by the moderators.
 
-## Code of Conduct
-Please read the [SAP Open Source Code of Conduct](https://github.com/SAP-samples/.github/blob/main/CODE_OF_CONDUCT.md).
-
 ## Background Material
 
 A lot of material to get up to speed with SAP Integration Suite, advanced event mesh is available.
