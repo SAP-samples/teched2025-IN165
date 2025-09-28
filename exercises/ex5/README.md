@@ -6,7 +6,7 @@ After completing these steps you will have learned about how to scale event-driv
 
 The Event-Driven Hockey Stick ...
 
-![Pic 1](../images/IN165-ex5-1.png)
+![Pic 1](../images/ex5-1.png)
 
 ## Exercise 4.2 Explore Events in the SAP Business Accelerator Hub
 
