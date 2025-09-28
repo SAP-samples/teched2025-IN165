@@ -45,6 +45,8 @@ SAP Integration Suite, advanced event mesh features touched, some just shortly, 
 
 ## Exercises
 
+![Pic 3](images/IN165-3.png)
+
 Preparation and Setup
 
 - [Getting Started](exercises/ex0/)
@@ -78,8 +80,6 @@ SAP Integration Suite, advanced event mesh
     - [Exercise 5.1 - Learn about the Event-Driven Hockey Stick](exercises/ex5/README.md#exercise-51-learn-about)
     - [Exercise 5.2 - Explore Events in the SAP Business Accelerator Hub](exercises/ex5/README.md#exercise-52-explore-business-accelerator-hub)
     - [Exercise 5.3 - Experiment with the Event Portal](exercises/ex5/README.md#exercise-53-experimenting-with-replay)
-
-![Pic 2](images/IN165-3.png)
 
 ## User Data and Password
 
