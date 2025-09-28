@@ -79,6 +79,8 @@ SAP Integration Suite, advanced event mesh
     - [Exercise 5.2 - Explore Events in the SAP Business Accelerator Hub](exercises/ex5/README.md#exercise-52-explore-business-accelerator-hub)
     - [Exercise 5.3 - Experiment with the Event Portal](exercises/ex5/README.md#exercise-53-experimenting-with-replay)
 
+![Pic 2](images/IN165-3.png)
+
 ## User Data and Password
 
 In order to log into Advanced Event Mesh, you can use the below email address with XXX replaced with your group number.
