@@ -52,4 +52,5 @@ For more information about Replay and/or acknowledging messages, check the follo
 ## Summary
 
 You've now explored Event Message Replay and seen how an adminstrator can replay messages that were published previously for a consumer.
-Congratulations, you completed all exercises!
+
+Continue to - [Exercise 5 - The Event-Driven Hockey Stick](../ex5/README.md)
