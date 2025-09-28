@@ -73,6 +73,11 @@ SAP Integration Suite, advanced event mesh
     - [Exercise 4.1 - Learn about Replay](exercises/ex4/README.md#exercise-41-learn-about)
     - [Exercise 4.2 - Experimenting with Replay](exercises/ex4/README.md#exercise-42-experimenting-with-replay)
 
+- [Exercise 5 - The Event-Driven Hockey Stick](exercises/ex5/)
+
+    - [Exercise 5.1 - Learn about the Event-Driven Hockey Stick](exercises/ex5/README.md#exercise-51-learn-about)
+    - [Exercise 5.2 - Explore Events in the SAP Business Accelerator Hub](exercises/ex5/README.md#exercise-52-explore-business-accelerator-hub)
+    - [Exercise 5.3 - Experiment with the Event Portal](exercises/ex5/README.md#exercise-53-experimenting-with-replay)
 
 ## User Data and Password
 
