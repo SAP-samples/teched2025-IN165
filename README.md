@@ -4,7 +4,7 @@
 
 ## Description
 
-Explore the powerful features of SAP Integration Suite, advanced event mesh. Start with core event-driven architecture elements like queues and topics, then dive into advanced topics and filtering to simulate a social media–like experience. Finally, try out advanced capabilities such as event replay.
+Explore the powerful features of SAP Integration Suite, advanced event mesh. Start with core event-driven architecture elements like queues and topics, then dive into advanced topics and filtering to simulate a social media–like experience. Try out advanced capabilities such as event replay. Finally learn about the features and tools that allow you to achieve the event-driven hockey stick.
 
 ## Overview
 
