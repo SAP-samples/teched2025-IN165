@@ -129,7 +129,7 @@ HINT: Please note that this topic is very simple to facilitate this exercise. In
 
 ![image](https://github.com/user-attachments/assets/99758623-d373-4270-93ba-258b18a63c07)
 
-19. Open the **"Solace Web Messaging"** entry and select **"Solace JavaScript API"**. Now a Pop-up on the right shows use the connection details.
+19. Open the **"Solace Web Messaging"** entry and select **"Solace JavaScript API"**. Now a Pop-up on the right shows the connection details to use.
     
 21. Copy these details into the according properties of the "Try Me!" tool opened in step 14. Overwrite existing values.
     
