@@ -119,23 +119,22 @@ You should receive the message.
 
 To make this easier for you, find the topics below for copy and paste.
 
-city/berlin/sights/monuments/reichstag/open
-city/berlin/sights/monuments/reichstag/closed
-city/berlin/sights/monuments/wall/open
-city/berlin/sights/monuments/wall/closed
-city/berlin/sights/nature/wannsee/open
-city/berlin/sights/nature/wannsee/closed
-city/berlin/sights/nature/tiergarten/open
-city/berlin/sights/nature/tiergarten/closed
-
-city/berlin/food/traditional/buletten/ready
-city/berlin/food/traditional/buletten/soldout
-city/berlin/food/traditional/klopse/ready
-city/berlin/food/traditional/klopse/soldout
-city/berlin/food/modern/doener/ready
-city/berlin/food/modern/doener/soldout
-city/berlin/food/modern/currywurst/ready
-city/berlin/food/modern/currywurst/soldout
+- city/berlin/sights/monuments/reichstag/open
+- city/berlin/sights/monuments/reichstag/closed
+- city/berlin/sights/monuments/wall/open
+- city/berlin/sights/monuments/wall/closed
+- city/berlin/sights/nature/wannsee/open
+- city/berlin/sights/nature/wannsee/closed
+- city/berlin/sights/nature/tiergarten/open
+- city/berlin/sights/nature/tiergarten/closed
+- city/berlin/food/traditional/buletten/ready
+- city/berlin/food/traditional/buletten/soldout
+- city/berlin/food/traditional/klopse/ready
+- city/berlin/food/traditional/klopse/soldout
+- city/berlin/food/modern/doener/ready
+- city/berlin/food/modern/doener/soldout
+- city/berlin/food/modern/currywurst/ready
+- city/berlin/food/modern/currywurst/soldout
 
 
 ## Summary
