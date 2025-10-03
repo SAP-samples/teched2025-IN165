@@ -159,7 +159,7 @@ HINT: Please note that this topic is very simple to facilitate this exercise. In
 
 ![Pic 22](../../images/ex1-25.png)  
 
-26. Seach for your just created queue. You should see one message queued.
+26. Search for the queue you had created earlier. You should see one message queued.
 
 ![Pic 22](../../images/ex1-22.png)  
 
