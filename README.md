@@ -4,7 +4,11 @@
 
 ## Description
 
-SAP Integration Suite, advanced event mesh is SAP's flagship event broker. Actually, it is more than just that: it allows you to create meshes of event brokers and to use powerful eventing platform, operations and event management features. Explore these powerful features of SAP Integration Suite, advanced event mesh. Start with core event-driven architecture elements like queues and topics, then dive into advanced topics and filtering to simulate a social media–like experience. Try out advanced capabilities such as event replay. Finally learn about the features and tools that allow you to achieve the event-driven hockey stick.
+SAP Integration Suite, advanced event mesh is SAP's flagship event broker. 
+
+Actually, it is more than just that: it allows you to create meshes of event brokers and to use powerful eventing platform, operations and event management features. Explore these powerful features of SAP Integration Suite, advanced event mesh. 
+
+Start with core event-driven architecture elements like queues and topics, then dive into advanced topics and filtering to simulate a social media–like experience. Try out advanced capabilities such as event replay. Finally learn about the features and tools that allow you to achieve the event-driven hockey stick.
 
 ## Overview
 
