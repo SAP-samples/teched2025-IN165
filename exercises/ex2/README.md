@@ -47,7 +47,7 @@ Some examples of AEM topic subscriptions, and topics that they match:
 
 ## Exercise 2.2 Practice Topic Hierarchies and Wildcards using Try Me ! - Berlin Edition
 
-Now that we have learned about topic hierarchies and have a great tool like Try Me ! at hand. let's play around with topic hierarchies.
+Now that we have learned about topic hierarchies and have a great tool like Try Me ! at hand. Let's play around with topic hierarchies.
 
 ![Pic 5](../../images/ex2-5.png)
 
