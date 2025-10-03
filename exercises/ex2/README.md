@@ -85,7 +85,8 @@ Now try out different combinations of publishing to a topic and listening to a t
 
 4. Register the consumer to listen to the currywurst topic - we just want to learn about currywurst being ready
 
-For this subscribe the consumer to the topic city/berlin/food/modern/currywurst
+For this subscribe the consumer to the topic <b>city/berlin/food/modern/currywurst</b>
+
 ![Pic 7](../../images/ex2-7a.png)
 
 5. Send a currywurst.ready event to the topic city/berlin/food/modern/currywurst
