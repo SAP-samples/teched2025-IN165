@@ -67,6 +67,7 @@ Clean up your Subscribed Topics so that you are not subscribing to any topics an
 
 
 3. Check out the hierarchical categorization of <b> Berlin-related </b> topics below
+   
 
 ![Pic 6](../../images/ex2-6.png)
 
@@ -78,20 +79,20 @@ Now try out different combinations of publishing to a topic and listening to a t
 >
 > If you want to play around just for yourself, add your number to the topic, ideally at the beginning. Make sure you add it when subscribing as well.
 > 
-> Instead of city/berlin/food/modern/currywurst
-> publish to or listen to XXX/city/berlin/food/modern/currywurst
+> Instead of city/berlin/food/modern/currywurst/ready
+> publish to or listen to XXX/city/berlin/food/modern/currywurst/ready
 > where you replace XXX with your number 
 > 
 
 4. Register the consumer to listen to the currywurst topic - we just want to learn about currywurst being ready
 
-For this subscribe the consumer to the topic <b>city/berlin/food/modern/currywurst</b>
+For this subscribe the consumer to the topic <b>city/berlin/food/modern/currywurst/*</b>
 
 ![Pic 7](../../images/ex2-7a.png)
 
-5. Send a currywurst.ready event to the topic city/berlin/food/modern/currywurst
+5. Send a currywurst.ready event to the topic city/berlin/food/modern/currywurst/ready
 
-Go to the Publisher, add currywurst.ready to the message field, put city/berlin/food/modern/currywurst into the topic field and click Publish
+Go to the Publisher, add a payload to the message field (e.g. medium spicy currywurst for Scott), put city/berlin/food/modern/currywurst/ready into the topic field and click Publish
 
 ![Pic 7](../../images/ex2-7b.png)
 
