@@ -130,10 +130,12 @@ HINT: Please note that this topic is very simple to facilitate this exercise. In
 ![image](https://github.com/user-attachments/assets/99758623-d373-4270-93ba-258b18a63c07)
 
 19. Open the **"Solace Web Messaging"** entry and select **"Solace JavaScript API"**. Now a Pop-up on the right shows use the connection details.
-20. Copy these details into the according properties of the "Try Me!" tool opened in step 14. Overwrite existing values.
+    
+21. Copy these details into the according properties of the "Try Me!" tool opened in step 14. Overwrite existing values.
+    
 ![image](https://github.com/user-attachments/assets/cb86bcc7-7dc7-456c-b9e2-16ff53870d85)
 
-21. Click on <b>Connect</b> in the <b>Publisher Section</b>
+23. Click on <b>Connect</b> in the <b>Publisher Section</b>
 >Important: If your browser asks to select a certificate for authentication, press "Cancel" otherwise the connection will fail! If you accidentially clicked on a certificate, please restart your browser to show the dialog again.
 
 
