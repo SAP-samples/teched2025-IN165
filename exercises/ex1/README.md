@@ -121,7 +121,7 @@ HINT: Please note that this topic is very simple to facilitate this exercise. In
 
 16. Switch to the **"Try Me!"** Section in the menu on the right.
 
-17. Press the **"expand"-Icon** to show the connection details. Please note, that the properties have to be adjusted, so the connection will not work. We will add them in the next steps.
+17. Press the **"expand"-Icon** to show the connection details. Please note, that the properties have to be adjusted, otherwiese the connection is not going to work. We will add the correct properties in the next steps.
 
 ![image](https://github.com/user-attachments/assets/f3888a68-64c9-4fda-8003-b4a7b4a18ff2)
 
