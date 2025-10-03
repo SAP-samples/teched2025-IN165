@@ -1,3 +1,5 @@
+![Pic 1](../../images/ex0-1.png)
+
 # Getting Started
 
 Before you start with the actual tutorial, prepare yourself by having the below information ready.
