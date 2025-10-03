@@ -33,6 +33,7 @@ Check out the different areas in the <b>Advanced Event Mesh cockpit</b> , repres
 
 > Hint: if you don't see any broker, please uncheck Only show my services
 
+
 ![Pic 13](../../images/ex1-13.png)  
 
 
