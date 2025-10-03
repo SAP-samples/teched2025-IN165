@@ -74,7 +74,7 @@ Now try out different combinations of publishing to a topic and listening to a t
 
 > Note: There are two options for you to do the steps described below - if you all publish to the same topic, others will receive your event as well. Which is good since this is the concept of topics.
 >
->  Maybe think about adding some message if you want others to read the event - some thing like "I like Currywurst!" while sending it to the Currywurst topic could make sense 
+>  Maybe think about adding some message if you want others to read the event - something like "I like Currywurst!" while sending it to the currywurst topic could make sense 
 >
 > If you want to play around just for yourself, add your number to the topic, ideally at the beginning. Make sure you add it when subscribing as well.
 > 
