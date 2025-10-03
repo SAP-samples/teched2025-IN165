@@ -66,7 +66,7 @@ Clean up your Subscribed Topics so that you are not subscribing to any topics an
 
 
 
-3. Check out the hierarchical categorization of animals below
+3. Check out the hierarchical categorization of Berlin-related topics below
 
 ![Pic 6](../../images/ex2-6.png)
 
