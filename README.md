@@ -117,5 +117,9 @@ In case that you would like to dig deeper into event-driven architecture: a lot 
     - [Advanced Event Mesh Tutorials](https://help.pubsub.em.services.cloud.sap/Cloud/ggs_signup.htm)
     - [SAP EDA Strategy Paper](https://d.dam.sap.com/a/LFK8XBY/SAP%20EDA%20Extended%20Paper%20101424%20v7.pdf?rc=10&inline=true)
 
+## Getting Started
+
+Please continue with [Exercise 0](../ex0/README.md)
+
 ## License
 Copyright (c) 2024 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
