@@ -119,7 +119,7 @@ In case that you would like to dig deeper into event-driven architecture: a lot 
 
 ## Getting Started
 
-Please continue with [Exercise 0](../ex0/README.md)
+Please continue with [Exercise 0](exercises/ex0/)
 
 ## License
 Copyright (c) 2024 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
