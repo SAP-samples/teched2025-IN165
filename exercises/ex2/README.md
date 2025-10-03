@@ -66,29 +66,31 @@ Clean up your Subscribed Topics so that you are not subscribing to any topics an
 
 
 
-3. Check out the hierarchical categorization of Berlin-related topics below
+3. Check out the hierarchical categorization of <b> Berlin-related </b> topics below
 
 ![Pic 6](../../images/ex2-6.png)
 
 Now try out different combinations of publishing to a topic and listening to a topic and see which events you receive.
 
-> Note: There are two options for you to do the steps described below - if you all publish to the same topic, others will receive your event as well. Which is good since this is the concept of topics. 
+> Note: There are two options for you to do the steps described below - if you all publish to the same topic, others will receive your event as well. Which is good since this is the concept of topics.
+>
+>  Maybe think about adding some message if you want others to read the event - some thing like "I live Currywurst!" while sending it to the Currywurst topic could make sense 
 >
 > If you want to play around just for yourself, add your number to the topic, ideally at the beginning. Make sure you add it when subscribing as well.
 > 
-> Instead of animals/vertebrates/warm-blooded/mammals/zebra
-> publish to / listen to XXX/animals/vertebrates/warm-blooded/mammals/zebra
+> Instead of city/berlin/food/modern/currywurst
+> publish to or listen to XXX/city/berlin/food/modern/currywurst
 > where you replace XXX with your number 
 > 
 
-4. Register the consumer to listen to the Zebra topic - we just want to learn about Zebras getting born
+4. Register the consumer to listen to the currywurst topic - we just want to learn about currywurst being ready
 
-For this subscribe the consumer to the topic animals/vertebrates/warm-blooded/mammals/zebra
+For this subscribe the consumer to the topic city/berlin/food/modern/currywurst
 ![Pic 7](../../images/ex2-7a.png)
 
-5. Send a Zebra.born event to the topic animals/vertebrates/warm-blooded/mammals/zebra
+5. Send a currywurst.ready event to the topic city/berlin/food/modern/currywurst
 
-Go to the Publisher, add Zebra.born to the message field, put animals/vertebrates/warm-blooded/mammals/zebra into the topic field and click Publish
+Go to the Publisher, add currywurst.ready to the message field, put city/berlin/food/modern/currywurst into the topic field and click Publish
 
 ![Pic 7](../../images/ex2-7b.png)
 
@@ -96,18 +98,18 @@ You should receive the message.
 
 ![Pic 8](../../images/ex2-8.png)
 
-6. Now we want to learn about all warm-blooded animals getting born
+6. Now we want to learn about all sights being open
 
 - Go to the Subscriber
 - delete the topics you are listening to
 
 ![Pic 9](../../images/ex2-9.png)
 
-- Subscribe to animals/vertebrates/warm-blooded/\*/\*
+- Subscribe to city/berlin/sights/\*/\*
 
 ![Pic 10](../../images/ex2-10.png)
 
-- Send a Falcon.born event to animals/vertebrates/warm-blooded/birds/falcon
+- Send a reichstag.open event to city/berlin/sights/monuments/reichstag
 
 ![Pic 11](../../images/ex2-11.png)
 
@@ -115,14 +117,19 @@ You should receive the message.
 
 To make this easier for you, find the topics below for copy and paste.
 
-- animals/vertebrates/warm-blooded/mammals/lion
-- animals/vertebrates/warm-blooded/mammals/zebra
-- animals/vertebrates/warm-blooded/birds/falcon
-- animals/vertebrates/warm-blooded/birds/sparrow
-- animals/vertebrates/cold-blooded/fish/shark
-- animals/vertebrates/cold-blooded/fish/salmon
-- animals/vertebrates/cold-blooded/reptiles/python
-- animals/vertebrates/cold-blooded/reptiles/alligator
+city/berlin/sights/monuments/reichstag
+city/berlin/sights/monuments/wall
+city/berlin/sights/nature/wannsee
+city/berlin/sights/nature/tiergarten
+city/berlin/districts/east/pankow
+city/berlin/districts/east/lichtenberg
+city/berlin/districts/west/spandau
+city/berlin/districts/west/tempelhof
+city/berlin/food/traditional/buletten
+city/berlin/food/traditional/klopse
+city/berlin/food/modern/doener
+city/berlin/food/modern/currywurst
+
 
 ## Summary
 
