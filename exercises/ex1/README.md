@@ -19,26 +19,26 @@ Link: https://eu10.console.pubsub.em.services.cloud.sap/login?zone-id=908a280d-c
 
 Check out the different areas in the Advanced Event Mesh cockpit , representing the different categories of services AEM offers
 
-- Mission Control: Mission Control makes it easy to deploy event brokers, create event meshes, and optimize and monitor the health/performance of an event-driven system. Mission Control is a section in the Cloud Console that permits you to access event brokers, visualize and manage your event broker services, and visualize and design event meshes. Mission Control has a Cluster Manager and Mesh Manager that permits you to create event broker services and manage your event mesh.
+- <b>Mission Control</b>: Mission Control makes it easy to deploy event brokers, create event meshes, and optimize and monitor the health/performance of an event-driven system. Mission Control is a section in the Cloud Console that permits you to access event brokers, visualize and manage your event broker services, and visualize and design event meshes. Mission Control has a Cluster Manager and Mesh Manager that permits you to create event broker services and manage your event mesh.
 
-     - Cluster Manager: event broker services are made available via Cluster Manager. Each event broker service consists of event brokers configured in a High-Availability (HA) setup.
+     - <b>Cluster Manager</b>: event broker services are made available via Cluster Manager. Each event broker service consists of event brokers configured in a High-Availability (HA) setup.
 
-     - Mesh Manager: use Mesh Manager to connect multiple event broker services that span different data centers to create an event mesh. An event mesh is an architectural layer that allows events from one application to be dynamically routed and received by any other application no matter where these applications are deployed (no cloud, private cloud, public cloud). This layer is composed by a network of event broker services. Event broker services are a modern form of messaging middleware, which are designed to move events across the distributed enterprise.
+     - <b>Mesh Manager</b>: use Mesh Manager to connect multiple event broker services that span different data centers to create an event mesh. An event mesh is an architectural layer that allows events from one application to be dynamically routed and received by any other application no matter where these applications are deployed (no cloud, private cloud, public cloud). This layer is composed by a network of event broker services. Event broker services are a modern form of messaging middleware, which are designed to move events across the distributed enterprise.
 
-- Event Portal: Event Portal provides event management services. This subscribed service provides powerful tools to create, design, share, and manage various aspects of an EDA based on event brokers or other streaming technologies (such as Kafka).
+- <b>Event Portal</b>: Event Portal provides event management services. This subscribed service provides powerful tools to create, design, share, and manage various aspects of an EDA based on event brokers or other streaming technologies (such as Kafka).
 
-- Event Monitoring and Insights: With Insights, we provide curated dashboards, easy-to-understand visualizations based on historical and real-time metrics, and timely notifications about your event broker services. This advanced information allows you to identify problems before they occur and helps you to better manage your services as your EDA scales. You can work with SAP to configure your monitoring to meet your needs. For advanced monitoring requirements, there's a single entry point to build custom visualizations to meet your organization's requirements. Coupled with visualizations is a notification email framework that alerts you when key metrics fall outside of your established thresholds. These notifications allow you to monitor what's occurring and correct developing issues before they impact or degrade your EDA. You can configure these notifications to integrate with your existing notification and logging systems.
+- <b>Event Monitoring and Insights</b>: With Insights, we provide curated dashboards, easy-to-understand visualizations based on historical and real-time metrics, and timely notifications about your event broker services. This advanced information allows you to identify problems before they occur and helps you to better manage your services as your EDA scales. You can work with SAP to configure your monitoring to meet your needs. For advanced monitoring requirements, there's a single entry point to build custom visualizations to meet your organization's requirements. Coupled with visualizations is a notification email framework that alerts you when key metrics fall outside of your established thresholds. These notifications allow you to monitor what's occurring and correct developing issues before they impact or degrade your EDA. You can configure these notifications to integrate with your existing notification and logging systems.
 
-3. Click on Cluster Manager
+3. Click on <b>Cluster Manager</b>
 
 > Hint: if you don't see any broker, please uncheck Only show my services
 
 ![Pic 13](../../images/ex1-13.png)  
 
 
-4. Select a Broker by clicking on it
+4. Select a <b>Broker</>B by clicking on it
 
-5. Click Open Broker Manager
+5. Click <b>Open Broker Manager</b>
 
 ![Pic 14](../../images/ex1-14.png)  
 
@@ -48,13 +48,13 @@ Check out the different areas in the Advanced Event Mesh cockpit , representing 
 
 On the left side of the screen are the main sections to navigate through:
 
-- Message VPN: VPN-level stats and config (a Message VPN is a virtual partition of a single broker... one AEM broker can host multiple Message VPNs, and each VPN can have different authorization schemes and topic spaces; client/messaging application activity happens within the scope of a VPN)
-- Clients: information about connected and configured client applications
-- Queues: used for Guaranteed / persistent messaging
-- Connectors: helpful wizards to connect to a variety of web services
-- Access Control: where you create new client usernames, ACL profiles, and client profiles
-- Replay: where you can enable replay, to allow the broker to send previous messages again NOTE: Solace brokers do not use replay for recovery of persistent data (like Kafka)... there is a more fine-grained approach in Solace where each individual message is ACKnowledged to the broker when the consumer application is done with it
-- Try Me! this is where we will connect two WebSocket test applications
+- <b>Message VPN</b>: VPN-level stats and config (a Message VPN is a virtual partition of a single broker... one AEM broker can host multiple Message VPNs, and each VPN can have different authorization schemes and topic spaces; client/messaging application activity happens within the scope of a VPN)
+- <b>Clients</b>: information about connected and configured client applications
+- <b>Queues</b>: used for Guaranteed / persistent messaging
+- <b>Connectors>/b>: helpful wizards to connect to a variety of web services
+- <b>Access Control</b>: where you create new client usernames, ACL profiles, and client profiles
+- <b>Replay</b>: where you can enable replay, to allow the broker to send previous messages again NOTE: Solace brokers do not use replay for recovery of persistent data (like Kafka)... there is a more fine-grained approach in Solace where each individual message is ACKnowledged to the broker when the consumer application is done with it
+- <b>Try Me!</b> this is where we will connect two WebSocket test applications
 
 ## Exercise 1.2 - Create a queue in Advanced Event Mesh
 
@@ -67,11 +67,11 @@ After completing these steps you will have created a queue in Advanced Event Mes
 
 > HINT: If you cannot see the tiles, uncheck the Only show my services box
 
-3. Press Manage
+3. Press <b>Manage</b>
 
 ![Pic 4](../../images/ex1-4.png)     
 
-4. Under Broker Manager Quick Setting click the Queues link. A new window opens up.
+4. Under <b>Broker Manager Quick Setting</n> click the Queues link. A new window opens up.
 
 ![Pic 5](../../images/ex1-5.png)      
 
