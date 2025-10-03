@@ -17,7 +17,7 @@ Link: https://eu10.console.pubsub.em.services.cloud.sap/login?zone-id=908a280d-c
 
 ![Pic 1](../../images/ex1-1.png)
 
-Check out the different areas in the Advanced Event Mesh cockpit , representing the different categories of services AEM offers
+Check out the different areas in the <b>Advanced Event Mesh cockpit</b> , representing the different categories of services AEM offers
 
 - <b>Mission Control</b>: Mission Control makes it easy to deploy event brokers, create event meshes, and optimize and monitor the health/performance of an event-driven system. Mission Control is a section in the Cloud Console that permits you to access event brokers, visualize and manage your event broker services, and visualize and design event meshes. Mission Control has a Cluster Manager and Mesh Manager that permits you to create event broker services and manage your event mesh.
 
