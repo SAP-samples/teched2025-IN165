@@ -92,7 +92,7 @@ The password will be provided to you by the moderators.
 
 ## Background Material
 
-A lot of material to get up to speed with SAP Integration Suite, advanced event mesh is available.
+In case that you would like to dig deeper into event-driven architecture: a lot of material to get up to speed with SAP Integration Suite, advanced event mesh and EDA in general is available. Please find a selection below:
 
 - Blogs
 
