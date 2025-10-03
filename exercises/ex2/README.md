@@ -107,7 +107,7 @@ You should receive the message.
 
 ![Pic 9](../../images/ex2-9.png)
 
-- Subscribe to city/berlin/sights/\*/\*/\open
+- Subscribe to city/berlin/sights/\*/\*/open
 
 ![Pic 10](../../images/ex2-10.png)
 
