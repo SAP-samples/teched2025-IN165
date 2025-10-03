@@ -60,8 +60,8 @@ On the left side of the screen are the main sections to navigate through:
 
 After completing these steps you will have created a queue in Advanced Event Mesh.
 
-1. Go back to the original tab in your browser and click on Cluster Manager on the left.
-2. In the All Services screen click on the Broker Europe Tile (Frankfurt)
+1. Go back to the original tab in your browser and click on <b>Cluster Manager</b> on the left.
+2. In the All Services screen click on the <b>Broker Europe Tile</b> (Frankfurt)
 
 ![Pic 2](../../images/ex1-2.png)  
 
@@ -75,17 +75,17 @@ After completing these steps you will have created a queue in Advanced Event Mes
 
 ![Pic 5](../../images/ex1-5.png)      
 
-5. Click the +Queue button on the top right
+5. Click the <b>+Queue</b> button on the top right
 
 ![Pic 6](../../images/ex1-6.png)        
 
-6. In the pop up enter the queue name: User_*** (replace *** with your number)
+6. In the pop up enter the <b>queue name: User_*** (replace *** with your number)</b>
 
-7. Click Create
+7. Click <b>Create</b>
 
 ![Pic 7](../../images/ex1-7.png)      
 
-8. On the next screen click Apply
+8. On the next screen click <b>Apply</b>
 
 ![Pic 8](../../images/ex1-8.png)      
 
@@ -97,21 +97,20 @@ After completing these steps you will have created a queue in Advanced Event Mes
 
 10. Click on your queue
 
-11. Click on Subscriptions
+11. Click on <b>Subscriptions</b>
 
 12. Click on "+Subscription" button
 
 ![Pic 10](../../images/ex1-10.png)  
 
 
-
-13. Enter the topic into the field. Use topic_user_XXX as the topic, and replace XXX with your group/participant number.
+13. Enter the topic into the field. Use <b>topic_user_XXX</b> as the topic, and replace XXX with your group/participant number.
 
 ![Pic 11](../../images/ex1-11.png)  
 
-HINT: Please note that this topic is very simple to facilitate this exercise. In real world scenarios, you can work with topic hierarchies that allow for filtering etc. We will dive into this later.
+HINT: Please note that this topic is very simple to facilitate this exercise. In real world scenarios, you can work with topic hierarchies that allow for filtering etc. And you could actually use dynamic topics, which are based on event data, as well. We will dive into this later.
 
-14. Click on Create
+14. Click on <b>Create</b>
 
 15. Check on whether your queue subscription got created
 
@@ -133,7 +132,7 @@ HINT: Please note that this topic is very simple to facilitate this exercise. In
 20. Copy these details into the according properties of the "Try Me!" tool opened in step 14. Overwrite existing values.
 ![image](https://github.com/user-attachments/assets/cb86bcc7-7dc7-456c-b9e2-16ff53870d85)
 
-21. Click on Connect in the Publisher Section
+21. Click on <b>Connect</b> in the <b>Publisher Section</b>
 >Important: If your browser asks to select a certificate for authentication, press "Cancel" otherwise the connection will fail! If you accidentially clicked on a certificate, please restart your browser to show the dialog again.
 
 
@@ -146,14 +145,14 @@ HINT: Please note that this topic is very simple to facilitate this exercise. In
 ![Pic 22](../../images/ex1-22-topic.png)  
 
 
-24. Click Publish to send your message (most likely Hello World!) to your topic
+24. Click <b>Publish</b> to send your message (most likely Hello World!) to your topic
 
-25. You should see 1 message published in the Publish Status
+25. You should see 1 message published in the <b>Publish Status</b>
 
 ![image](https://github.com/user-attachments/assets/0c580931-a436-4102-8ad9-ff73ab632182)
 
 
-25. Switch back to the Queues
+25. Switch back to the <b>Queues</b>
 
 ![Pic 22](../../images/ex1-25.png)  
 
