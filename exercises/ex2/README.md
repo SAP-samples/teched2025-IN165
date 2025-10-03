@@ -1,16 +1,18 @@
+![Pic 1](../../images/ex2-1.png)
+
 # Exercise 2 - Explore Topic Hierarchies and Wildcards
 
-After completing these steps you will have learned about topic hierarchies and wildcards and how to use them
-
-![Pic 1](../../images/ex2-1.png)
+After completing these steps you will have learned about <b> topic hierarchies and wildcards </b> and how to use them
 
 ## Exercise 2.1 Learn about Topic Hierarchies and Wildcards
 
-Advanced Event Mesh supports a hierarchical topic structure, which means you can be very descriptive in defining your topic. Use it to describe the contents/intent of your message payload data. No need to use flat, coarse-grained topic labels like other brokers.
+Advanced Event Mesh supports a hierarchical topic structure, which means you can be very descriptive in defining your topic. Use it to describe the <b>contents/intent of your message payload data </b>. 
+
+<b> No need to use flat, coarse-grained topic labels like other brokers. </b>
 
 ### Topics
 
-Check out this seven minute video for more information: [All about AEM Topics](https://www.youtube.com/watch?v=PP1nNlgERQI)
+Check out this seven minute video for more information, if wanted: [All about AEM Topics](https://www.youtube.com/watch?v=PP1nNlgERQI)
 
 Each and every message can be published to a unique topic, depending on the event metadata. Some examples of valid AEM topics are:
 
@@ -20,13 +22,19 @@ Each and every message can be published to a unique topic, depending on the even
 - mfg/plant42/inv/update/p12345667
 - payme/debit/qr/bank01/f89a09-2b9c065a3/ok
 
+Or for events originating from SAP S/4HANA:
+
+- ce/sap/s4/beh/salesorder/v1/SalesOrder/Changed/v1
+- ce/sap/s4/beh/businesspartner/v1/BusinessPartner/Created/v1
+- ce/sap/s4/beh/workcenter/v1/WorkCenter/Created/v1
+
 ### Subscription Wildcards
 
 Because published topics can be so variable and dynamic, subscribers can use wildcards to match a single subscription to multiple published topics. AEM supports two different types of wildcards:
 
-- Single-level wildcard, 0-or-more chars, matches up to the next level /.
+- <b>Single-level wildcard</b>, 0-or-more chars, matches up to the next level /.
      - Can be used with a prefix e.g.: abc*, but not a suffix.
-- Multi-level wildcard, matches one-or-more levels.
+- <b>Multi-level wildcard</b>, matches one-or-more levels.
      - Must occur at the end of the topic subscription.
 
 Some examples of AEM topic subscriptions, and topics that they match:
