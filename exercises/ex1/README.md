@@ -42,7 +42,7 @@ Check out the different areas in the <b>Advanced Event Mesh cockpit</b> , repres
 
 ![Pic 14](../../images/ex1-14.png)  
 
-6. Explore the Broker Manager
+6. Explore the <b>Broker Manager</b>
 
 ![Pic 15](../../images/ex1-15.png)  
 
