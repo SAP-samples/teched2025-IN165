@@ -51,7 +51,7 @@ On the left side of the screen are the main sections to navigate through:
 - <b>Message VPN</b>: VPN-level stats and config (a Message VPN is a virtual partition of a single broker... one AEM broker can host multiple Message VPNs, and each VPN can have different authorization schemes and topic spaces; client/messaging application activity happens within the scope of a VPN)
 - <b>Clients</b>: information about connected and configured client applications
 - <b>Queues</b>: used for Guaranteed / persistent messaging
-- <b>Connectors>/b>: helpful wizards to connect to a variety of web services
+- <b>Connectors</b>: helpful wizards to connect to a variety of web services
 - <b>Access Control</b>: where you create new client usernames, ACL profiles, and client profiles
 - <b>Replay</b>: where you can enable replay, to allow the broker to send previous messages again NOTE: Solace brokers do not use replay for recovery of persistent data (like Kafka)... there is a more fine-grained approach in Solace where each individual message is ACKnowledged to the broker when the consumer application is done with it
 - <b>Try Me!</b> this is where we will connect two WebSocket test applications
