@@ -107,11 +107,11 @@ You should receive the message.
 
 ![Pic 9](../../images/ex2-9.png)
 
-- Subscribe to city/berlin/sights/\*/\*
+- Subscribe to city/berlin/sights/\*/\*/\open
 
 ![Pic 10](../../images/ex2-10.png)
 
-- Send a reichstag.open event to city/berlin/sights/monuments/reichstag
+- Send a reichstag.open event to city/berlin/sights/monuments/reichstag/open
 
 ![Pic 11](../../images/ex2-11.png)
 
@@ -119,18 +119,23 @@ You should receive the message.
 
 To make this easier for you, find the topics below for copy and paste.
 
-city/berlin/sights/monuments/reichstag
-city/berlin/sights/monuments/wall
-city/berlin/sights/nature/wannsee
-city/berlin/sights/nature/tiergarten
-city/berlin/districts/east/pankow
-city/berlin/districts/east/lichtenberg
-city/berlin/districts/west/spandau
-city/berlin/districts/west/tempelhof
-city/berlin/food/traditional/buletten
-city/berlin/food/traditional/klopse
-city/berlin/food/modern/doener
-city/berlin/food/modern/currywurst
+city/berlin/sights/monuments/reichstag/open
+city/berlin/sights/monuments/reichstag/closed
+city/berlin/sights/monuments/wall/open
+city/berlin/sights/monuments/wall/closed
+city/berlin/sights/nature/wannsee/open
+city/berlin/sights/nature/wannsee/closed
+city/berlin/sights/nature/tiergarten/open
+city/berlin/sights/nature/tiergarten/closed
+
+city/berlin/food/traditional/buletten/ready
+city/berlin/food/traditional/buletten/soldout
+city/berlin/food/traditional/klopse/ready
+city/berlin/food/traditional/klopse/soldout
+city/berlin/food/modern/doener/ready
+city/berlin/food/modern/doener/soldout
+city/berlin/food/modern/currywurst/ready
+city/berlin/food/modern/currywurst/soldout
 
 
 ## Summary
