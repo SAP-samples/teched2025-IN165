@@ -9,7 +9,7 @@ After completing these steps you will have familiarized yourself with AEM. These
 
 Link: https://eu10.console.pubsub.em.services.cloud.sap/login?zone-id=908a280d-c2f1-4d2b-b003-de94ffc5a4ee
 
-User: <b> handson_***@education.cloud.sap </b> (replace *** with your user number)
+<b> User: handson_***@education.cloud.sap </b> (replace *** with your user number)
 
 <b>Password</b>: provided by your moderator
 
