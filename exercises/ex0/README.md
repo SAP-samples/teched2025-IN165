@@ -6,7 +6,7 @@ Before you start with the actual tutorial, prepare yourself by having the below 
 
 ## Participant Number
 
-When you run through the exercise steps, you need to ensure that you use your participant number that runs from 01 - 40.
+When you run through the exercise steps, you need to ensure that you use your <b>participant number</b> that runs from <b> 01 - 40 </b>.
 
 Ensure you know the right number and use it. You can find the participant number on your table.
 
@@ -16,7 +16,7 @@ In order to log into Advanced Event Mesh, you can use the below email address wi
 
 handson_XXX@education.cloud.sap (e.g. handson_012@education.cloud.sap)
 
-The password will be provided to you by the moderators.
+The <b> password will be provided to you by the moderators </b>.
   
 ## Summary
 
