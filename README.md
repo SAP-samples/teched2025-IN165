@@ -100,7 +100,7 @@ In case that you would like to dig deeper into event-driven architecture: a lot 
 
 - Introduction Slide Deck
 
-    - [Discover EDA](material/Discover EDA.pdf)
+    - [Discover EDA](material)
     - [Start your journey to EDA with SAP](material/Start your journey to EDA with SAP.pdf)
     - [AEM Roadmap](material/AEM Roadmap August 2025.pdf)
 
