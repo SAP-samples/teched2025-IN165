@@ -1,3 +1,5 @@
+![Pic 0](../../images/ex1-0.png)
+
 ## Exercise 1.1 - Log into Advanced Event Mesh and explore it
 
 After completing these steps you will have familiarized yourself with AEM.
