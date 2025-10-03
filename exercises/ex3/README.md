@@ -1,3 +1,6 @@
+![Publish 1](images/ex3-0.png)
+
+
 # Exercise 3 - Persistent and Non-Persistent
 
 After completing these steps you will have learned about delivery modes, persistency and quality of service.
