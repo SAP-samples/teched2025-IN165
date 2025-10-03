@@ -39,7 +39,11 @@ Because published topics can be so variable and dynamic, subscribers can use wil
 
 Some examples of AEM topic subscriptions, and topics that they match:
 
+
+
 ![Pic 2](../../images/ex2-2.png)
+
+
 
 ## Exercise 2.2 Practice Topic Hierarchies and Wildcards using Try Me ! - Animal Edition
 
