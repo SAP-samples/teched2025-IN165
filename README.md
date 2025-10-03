@@ -4,18 +4,18 @@
 
 ## Description
 
-Explore the powerful features of SAP Integration Suite, advanced event mesh. Start with core event-driven architecture elements like queues and topics, then dive into advanced topics and filtering to simulate a social media–like experience. Try out advanced capabilities such as event replay. Finally learn about the features and tools that allow you to achieve the event-driven hockey stick.
+SAP Integration Suite, advanced event mesh is SAP's flagship event broker. Actually, it is more than just that: it allows you to create meshes of event brokers and to use powerful eventing platform, operations and event management features. Explore these powerful features of SAP Integration Suite, advanced event mesh. Start with core event-driven architecture elements like queues and topics, then dive into advanced topics and filtering to simulate a social media–like experience. Try out advanced capabilities such as event replay. Finally learn about the features and tools that allow you to achieve the event-driven hockey stick.
 
 ## Overview
 
 ![Pic 2](images/IN165-2.png)
 
-SAP Integration Suite, advanced event mesh is a fully managed event streaming and management service that enables enterprise-wide and enterprise-grade event-driven architecture. It is a full blown, general purpose Event Mesh. AEM offers enterprise-grade performance, reliability, security and governance. It scales to very large use cases – and very means very very very in this case.
+SAP Integration Suite, advanced event mesh is a fully managed event streaming and management service that enables enterprise-wide and enterprise-grade event-driven architecture. It is a full blown, general purpose event mesh. AEM offers enterprise-grade performance, reliability, security and governance. It scales to very large use cases – and very means very very very in this case.
 
 - Advanced Event Mesh is a distributed mesh of event brokers that can be deployed across environments, both in the cloud and on-premise
 - It offers a full purpose set of eventing services covering all relevant use cases
 - AEM supports event streaming, event management and event monitoring
-- Brokers fully scale as required and come in T-shirt sizes to perfectly fit different needs
+- Brokers fully scale as required and come in different broker sizes to perfectly fit different needs
 
 SAP Integration Suite, advanced event mesh
 
@@ -36,7 +36,8 @@ SAP Integration Suite, advanced event mesh features touched, some just shortly, 
 - SAP Integration Suite, advanced event mesh Cluster Manager
 - SAP Integration Suite, advanced event mesh Mesh Manager
 - SAP Integration Suite, advanced event mesh Event Designer and Event Management
-- SAP Integration Suite, advanced event mesh Try Me!
+- SAP Integration Suite, advanced event mesh Try Me! tool
+- SAP Integration Suite, advanced event mesh Event Portal
 
 ## Requirements
 
