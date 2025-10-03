@@ -36,7 +36,7 @@ Check out the different areas in the <b>Advanced Event Mesh cockpit</b> , repres
 ![Pic 13](../../images/ex1-13.png)  
 
 
-4. Select a <b>Broker</>B by clicking on it
+4. Select a <b>Broker</b> by clicking on it
 
 5. Click <b>Open Broker Manager</b>
 
