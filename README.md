@@ -98,6 +98,10 @@ The password will be provided to you by the moderators.
 
 In case that you would like to dig deeper into event-driven architecture: a lot of material to get up to speed with SAP Integration Suite, advanced event mesh and EDA in general is available. Please find a selection below:
 
+- Introduction Slide Deck
+
+    - [Slide Deck](slides/ex4/)
+
 - Blogs
 
     - [AEM Blog Post Collection](https://community.sap.com/t5/technology-blog-posts-by-sap/sap-integration-suite-advanced-event-mesh-blog-collection/ba-p/14111943)
