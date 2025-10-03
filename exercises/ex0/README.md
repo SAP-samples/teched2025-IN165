@@ -10,7 +10,7 @@ Ensure you know the right number and use it. You can find the participant number
 
 ## User and Password
 
-In order to log into Advanced Event Mesh, you can use the below email address with XXX replaced with your group number.
+In order to log into Advanced Event Mesh, you can use the below email address with XXX replaced with your participant / group number.
 
 handson_XXX@education.cloud.sap (e.g. handson_012@education.cloud.sap)
 
