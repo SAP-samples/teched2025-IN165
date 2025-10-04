@@ -70,6 +70,12 @@ Next click on <b>Event References</b>
 
 You can now explore the payload and the header data of available SAP standard events for SalesOrder.
 
+And if you want to, you can always go back and look for other available standard events.
+
+The next picture gives you an indication on how you would be able to expose these events in your SAP S/4HANA Public Cloud system - this is nothing you can try today, still allows you get an impression:
+
+![Pic 9](images/ex5-9.png)
+
 ## Exercise 5.3 Experiment with the Event Portal
 
 The Event Portal ...
