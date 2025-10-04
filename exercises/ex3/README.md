@@ -15,7 +15,7 @@ Persistence refers to the <b>Quality-of-Service (QoS)</b> of event messages, whi
 
 <b>Persistent</b>: Event Messages are considered persistent if they are placed onto non-volatile storage media after they arrive on the broker. The broker's Data Plane stores a message if the message arrives with the `Persistent Delivery Mode` set to `Persistent`, or if a queue or durable topic endpoint has subscribed to a topic where messages are persisted regardless of the `Persistent Delivery` Mode flag setting in the message.
 
-<b>Non-Persistent</b>:If an event message is sent with `Persistent Delivery Mode` set to `Direct`, which is synonymous with `Non-Persistent`, the message is only placed onto the non-volatile storage media if the message is subscribed by a Queue or a Durable Topic Endpoint. 
+<b>Non-Persistent</b>: If an event message is sent with `Persistent Delivery Mode` set to `Direct`, which is synonymous with `Non-Persistent`, the message is only placed onto the non-volatile storage media if the message is subscribed by a Queue or a Durable Topic Endpoint. 
 
 Messages flagged as `Persistent` result in an acknowledgment message being sent back to the producer after the message is stored.
 
