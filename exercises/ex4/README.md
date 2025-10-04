@@ -20,7 +20,7 @@ Replay can be performed on a (non-partitioned) queue or topic endpoint. When ini
 
 > You should see a summary view with some stats on number of messages stored in the replay log and storage space allocated for replay. Feel free to explore some of the other tabs.
 
-![AEM Replay](images/ex4_1a.png)
+![AEM Replay](images/ex4-1a.png)
 
 2. Return to the queue overview and find your queue, select and click on the action menu.
    
