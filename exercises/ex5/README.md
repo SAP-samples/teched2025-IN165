@@ -18,7 +18,7 @@ Typically, initial EDA projects are driven by a specific integration department 
 
 Customers start with a few use cases. Then, driven by a central team, additional use cases are added. The beauty is that you can simply add them to the same infrastructure.
 
-What you really want after having built up EDA know-how is <b>exponential growth</>: you want the EDA Hockey Stick. Now how do you get there?
+What you really want after having built up EDA know-how is <b>exponential growth</b>: you want the EDA Hockey Stick. Now how do you get there?
 
 That's simple - involve the people that have the business know-how and give them the chance to come up with EDA use cases. The idea is that the different business units can do two things:
 
@@ -29,7 +29,26 @@ That's simple - involve the people that have the business know-how and give them
 
 ## Exercise 5.2 Explore Events in the SAP Business Accelerator Hub
 
-The SAP Business Accelerator Hub ...
+The SAP Business Accelerator Hub documents available SAP standards events. It does so for different SAP cloud applications and on premise backends like SAP S/4HANA Public Cloud Edition, SAP S/4HANA Cloud Private Edition, SAP S/4HANA, SAP Success Factors solutions and plenty of additional SAP applications.
+
+Go to the SAP Business Accelerator Hub by entering the following URL into you browser:
+
+http://hub.sap.com
+
+This will take you to the main page of the Business Accelerator Hub:
+
+![Pic 1](images/ex5-2.png)
+
+Now there are two ways really to look for available events:
+
+1. Either via selecting your SAP event source
+
+![Pic 1](images/ex5-3.png)
+   
+2. Or by clicking on Categories to look for all available events 
+
+![Pic 1](images/ex5-4.png)
+
 
 ## Exercise 5.3 Experiment with the Event Portal
 
