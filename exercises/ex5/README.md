@@ -1,3 +1,5 @@
+![Pic 0](images/ex5-0.png)
+
 # Exercise 5 - The Event-Driven Hockey Stick
 
 After completing these steps you will have learned about how to scale event-driven architecture and why it is also nicknamed as Social Media of the Enterprise.
