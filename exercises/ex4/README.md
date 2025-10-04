@@ -15,15 +15,19 @@ Replay can be performed on a (non-partitioned) queue or topic endpoint. When ini
 ## Exercise 4.2 Experimenting with Replay
 
 1. Click on Replay on the left hand menu to check that Replay is enabled. Confirm the pop-up that your subscriber is no longer connected once you leave the 'Try-me' tool.
+
 ![AEM Replay](images/ex4_1.png)
 
 > You should see a summary view with some stats on number of messages stored in the replay log and storage space allocated for replay. Feel free to explore some of the other tabs.
-![AEM Replay](images/ex4_1.png)
+
+![AEM Replay](images/ex4_1a.png)
 
 2. Return to the queue overview and find your queue, select and click on the action menu.
+   
 ![AEM Queue Overview](images/ex4_5.png)
 
-3. Select "Delete All Messages" to clear the queue.
+4. Select "Delete All Messages" to clear the queue.
+   
 ![AEM Clear Queue](images/ex4_6.png)
 
 > This will remove all currently stored messages from the queue and you will see the "Messages Queued" counter drop to zero for your queue.
