@@ -74,7 +74,13 @@ And if you want to, you can always go back and look for other available standard
 
 The next picture gives you an indication on how you would be able to expose these events in your SAP S/4HANA Public Cloud system - this is nothing you can try today, still allows you get an impression:
 
+First you see 4 event types getting exposed via a channel to AEM.
+
 ![Pic 9](images/ex5-9.png)
+
+Then you see how you could select and add additional events to this channel.
+
+![Pic 10](images/ex5-10.png)
 
 ## Exercise 5.3 Experiment with the Event Portal
 
