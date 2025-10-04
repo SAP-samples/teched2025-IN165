@@ -37,18 +37,38 @@ http://hub.sap.com
 
 This will take you to the main page of the Business Accelerator Hub:
 
-![Pic 1](images/ex5-2.png)
+![Pic 2](images/ex5-2.png)
 
 Now there are two ways really to look for available events:
 
-1. Either via selecting your SAP event source
+1. Either via selecting your SAP <b>product</b> / event source
 
-![Pic 1](images/ex5-3.png)
+![Pic 3](images/ex5-3.png)
    
-2. Or by clicking on Categories to look for all available events 
+2. Or by clicking on <b>Categories</b> to look for all available events 
 
-![Pic 1](images/ex5-4.png)
+![Pic 4](images/ex5-4.png)
 
+We will now take path 1, meaning we will look at available events for SAP S/4HANA Public Cloud Edition.
+
+Go to SAP S/4HANA Cloud Public Edition and click on <b>Events</b>
+.
+![Pic 5](images/ex5-5.png)
+
+You can now click around and look at available events if you want to. Then enter <b>*salesorder*</b>
+ into the search field.
+ 
+![Pic 6](images/ex5-6.png)
+
+Click on SalesOrder events. You get an overview of available SalesOrder events.
+
+![Pic 7](images/ex5-7.png)
+
+Next click on <b>Event References</b>
+
+![Pic 8](images/ex5-8.png)
+
+You can now explore the payload and the header data of available SAP standard events for SalesOrder.
 
 ## Exercise 5.3 Experiment with the Event Portal
 
