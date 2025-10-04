@@ -49,6 +49,8 @@ Replay can be performed on a (non-partitioned) queue or topic endpoint. When ini
 > You should now see the messages you previously published and that you had already consumed appear again. How is that possible?<br>
 Magic of Replay.
 
+![Consume Replayed Messages](images/ex4_11.png)
+
 For more information about Replay and/or acknowledging messages, check the following links:<br>
 [Message Replay](https://docs.solace.com/Overviews/Message-Replay-Overview.htm?Highlight=replay)<br>
 [Acknowledging Messages](https://docs.solace.com/Solace-PubSub-Messaging-APIs/API-Developer-Guide/Acknowledging-Messages.htm)
