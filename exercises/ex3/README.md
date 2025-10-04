@@ -68,12 +68,18 @@ Let's go ahead and publish another message.
 ![Consume from queue](images/ex3-13.png)
 
 > What happened?<br>
+
 Did you receive multiple messages just now?<br>
+
 How is that possible?<br>
-Well, the answer lies in the persistent delivery mode aka guaranteed messaging and the queue we set up earlier today. We also added a subscription to this queue to our topic.
+
+Well, the answer lies in the <b>persistent delivery mode</b> aka guaranteed messaging and <b>the queue we set up earlier today</b>. We also added a subscription to this queue to our topic.
+
 Now while we were happily experimenting with the `Try-Me` tab here publishing to our topic and seeing if we receive any messages, all those messages were simultaneously attracted to our queue by our previously set up subscription and stored there for later consumption.<br>
-Now when we started our Queue consumer on our Try-Me tab just now, we just received all those stored messages that were published between when we set up the queue and assigned the subscription and now.<br>
-This is persistent messaging, publishers and consumers don't need to be online or processing messages at the same speed. The broker will securely store all messages matching the queue's subscription and deliver it securely to the consumer when it comes online or is ready to process messages.
+
+Now when we started our Queue consumer on our Try-Me tab just now, we just <b>received all those stored messages</b> that were published between when we set up the queue and assigned the subscription and now.<br>
+
+This is persistent messaging, <b>publishers and consumers don't need to be online or processing messages at the same speed</b>. The broker will securely store all messages matching the queue's subscription and deliver it securely to the consumer when it comes online or is ready to process messages.
 
 ## Summary
 
