@@ -56,7 +56,7 @@ Let's go ahead and publish another message.
 4. Hit publish one more time.
 ![AEM Direct Message Received](images/ex3-10.png)
 
-> Now we've received a message, because both our publisher and subscriber are connected at the same time! This is non-persistent messaging, sometimes also referred to as best-effort messaging. Publishers and Subscribers need to be connected at the same time and reachable so that the messages can be delivered immediately from memory (meaning no network issues). This is the fastest mode, but it's not guaranteed to be lossless.
+> Now we've received a message, because both our publisher and subscriber are connected at the same time! This is non-persistent messaging, sometimes also referred to as best-effort messaging. <b>Publishers and Subscribers need to be connected at the same time and reachable</b> so that the messages can be delivered immediately from memory (meaning no network issues). This is the fastest mode, but it's not guaranteed to be lossless.
 
 5. Publish a couple more messages, then clear your subscribers' messages and remove the topic subscription.
 ![Subscriber clear](images/ex3-11.png)
