@@ -84,7 +84,25 @@ Then you see how you could select and add additional events to this channel.
 
 ## Exercise 5.3 Experiment with the Event Portal
 
-The Event Portal ...
+The Event Portal provides cloud-based event management capabilities that improve developer productivity, enhance governance and compliance, facilitate improved collaboration across teams, and enable efficient design and analysis of event flows, ultimately leading to faster time-to-market and reduced errors in event-driven applications and services.
+
+Event Portal supports modeling your EDA for the multiple operational environments that you maintain for your software development lifecycle. You can have multiple versions of applications, events, schemas, and enumerations, which enables you to maintain production versions while you develop and test new versions to extend and enhance your EDA at the same time.
+
+Event Portal offers: 
+
+- runtime discovery and cataloging of events
+- schemas
+- application interactions 
+
+Event Portal includes several tools to help you design, manage, and govern your EDA:
+
+- <b>Designer</b> helps you create and update all of the objects you use to design your EDA and configure queues that you can add and update on your operational event brokers.
+
+- <b>Catalog</b> is a library of all the applications, events, schemas, and other objects in your organization's account in Event Portal.
+
+- <b>Runtime Event Manager</b> helps you model your EDA using objects created in Designer or data collected from your operational event brokers. It also helps you create templates for queue configurations and client profile names, to make it easier to govern the resources configured on your event brokers and help developers configure client applications.
+
+- <b>KPI Dashboard</b> displays key performance indicators (KPI) related to your event-driven architecture (EDA) to help you track the performance and efficiency of your EDA.
 
 ## Summary
 
