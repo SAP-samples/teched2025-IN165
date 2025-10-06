@@ -1,3 +1,6 @@
+![AEM Replay](images/ex4_0.png)
+
+
 # Exercise 4 - Event Replay
 
 After completing these steps you will have learned about AEM's replay functionality.
