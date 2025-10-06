@@ -86,6 +86,8 @@ Then you see how you could select and add additional events to this channel.
 
 The Event Portal provides cloud-based event management capabilities that improve developer productivity, enhance governance and compliance, facilitate improved collaboration across teams, and enable efficient design and analysis of event flows, ultimately leading to faster time-to-market and reduced errors in event-driven applications and services.
 
+You can find documentation on the Event Portal [here](https://help.pubsub.em.services.cloud.sap/Cloud/Event-Portal/event-portal-lp.htm).
+
 Event Portal supports modeling your EDA for the multiple operational environments that you maintain for your software development lifecycle. You can have multiple versions of applications, events, schemas, and enumerations, which enables you to maintain production versions while you develop and test new versions to extend and enhance your EDA at the same time.
 
 Event Portal offers: 
@@ -93,6 +95,8 @@ Event Portal offers:
 - runtime discovery and cataloging of events
 - schemas
 - application interactions 
+
+![Pic 10](images/ex5-11.png)
 
 Event Portal includes several tools to help you design, manage, and govern your EDA:
 
