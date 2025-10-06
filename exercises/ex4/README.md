@@ -55,8 +55,9 @@ Magic of Replay.
 ![Consume Replayed Messages](images/ex4_11.png)
 
 For more information about Replay and/or acknowledging messages, check the following links:<br>
-[Message Replay](https://docs.solace.com/Overviews/Message-Replay-Overview.htm?Highlight=replay)<br>
-[Acknowledging Messages](https://docs.solace.com/Solace-PubSub-Messaging-APIs/API-Developer-Guide/Acknowledging-Messages.htm)
+
+- [Message Replay](https://help.pubsub.em.services.cloud.sap/Features/Replay/Message-Replay-Overview.htm)<br>
+- [Acknowledging Messages](https://help.pubsub.em.services.cloud.sap/Messaging/Guaranteed-Msg/guaranteed-messaging-acknowledgments.htm)
 
 ## Summary
 
