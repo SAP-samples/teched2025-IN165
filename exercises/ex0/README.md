@@ -1,26 +1,25 @@
-# Level 1 Heading
+![Pic 1](../../images/ex0-1.png)
 
-In this exercise, you will...
+# Getting Started
 
-## Level 2 Heading
+Before you start with the actual tutorial, prepare yourself by having the below information ready.
 
-After completing these steps you will have....
+## Participant Number
 
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
+When you run through the exercise steps, you need to ensure that you use your <b>participant number</b> that runs from <b> 01 - 40 </b>.
 
-2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
+Ensure you know the right number and use it. You can find the participant number on your table.
 
+## User and Password
+
+In order to log into Advanced Event Mesh, you can use the below email address with XXX replaced with your participant / group number.
+
+handson_XXX@education.cloud.sap (e.g. handson_012@education.cloud.sap)
+
+The <b> password will be provided to you by the moderators </b>.
+  
 ## Summary
 
-Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+You have now everything you need to get started.
+
+Please continue with [Exercise 1](../ex1/README.md)
