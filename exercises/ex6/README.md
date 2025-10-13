@@ -21,8 +21,6 @@ CDS views, classic tables, IDocs can be used for event payload creation
 - Major parts of the technology have already been in successful use for several years and is now available in an SAP offering specifically tailored for SAP Integration Suite, advanced event mesh
 - Scales to enterprise grade numbers of events exposed
 
-![Pic 2](images/ex6-2.png)
-
 Watch a 5 minute demo of the Event Add-On for ERP here. We will walk you through the creation of a Sales Order event in SAP S/4HANA.
 
 ## Exercise 6.2 Consume Custom Events form SAP S(4HANA via the Event Add-On
