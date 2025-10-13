@@ -96,7 +96,7 @@ Event Portal offers:
 - schemas
 - application interactions 
 
-![Pic 10](images/ex5-11.png)
+![Pic 11](images/ex5-11.png)
 
 Event Portal includes several tools to help you design, manage, and govern your EDA:
 
@@ -107,6 +107,24 @@ Event Portal includes several tools to help you design, manage, and govern your 
 - <b>Runtime Event Manager</b> helps you model your EDA using objects created in Designer or data collected from your operational event brokers. It also helps you create templates for queue configurations and client profile names, to make it easier to govern the resources configured on your event brokers and help developers configure client applications.
 
 - <b>KPI Dashboard</b> displays key performance indicators (KPI) related to your event-driven architecture (EDA) to help you track the performance and efficiency of your EDA.
+
+In the end the next excercises are free flow and are supposed to give you an overview of what the Event Portal offers. We will still provide a few ideas where to explore and what to look at a little deeper. <b>You are obviously not bound to this flow</b>. The different sections hold example data.
+
+1. Start with the Catalog by clicking on <b>Catalog</b>
+
+- you can for example look at which events an application subscribes to (go to <b>Applications</b> and click on the application name)
+
+![Pic 12](images/ex5-12.png)
+
+- or you can go to <b>Events</b> and look at the details of a specific event - which applications use it, what is the topic address ...
+  
+![Pic 13](images/ex5-13.png)
+
+2. Go to the <b>KPI Dashboard</b> by clicking on KPI Dashboard
+
+Here you can check which events are the most re-used ones.
+
+![Pic 14](images/ex5-14.png)
 
 ## Summary
 
