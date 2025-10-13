@@ -120,6 +120,7 @@ In case that you would like to dig deeper into event-driven architecture: a lot 
 - Videos
 
     - [Devtoberfest 2024: Discover SAP Event Sources for Advanced Event Mesh](https://www.youtube.com/watch?v=NujHueCBDOw)
+    - [Devtoberfest 2025: Hands-on session: practival demonstration of the Event Add-On for ERP](https://www.youtube.com/watch?v=vwzqNLISvHo)
 
 - Documentation
 
