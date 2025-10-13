@@ -8,7 +8,7 @@ After completing these steps you will have learned about how to create custom ev
 
 The Event Add-On for ERP has lately been introduced to further improve event exposure options for SAP's event-driven ecosystem. Consider the Event-Add-On for ERP as a premium and convenience option that comes with a low-code/no-code approach to create sophisticated, clean-core compliant custom events in just a few minutes.
 
-![Pic 0](images/ex6-1.png)
+![Pic 1](images/ex6-1.png)
 
 To keep it short let's describe what the Event-Add On is in a few sentences:
 
@@ -20,6 +20,8 @@ CDS views, classic tables, IDocs can be used for event payload creation
 - Comes with templates for selected custom events
 - Major parts of the technology have already been in successful use for several years and is now available in an SAP offering specifically tailored for SAP Integration Suite, advanced event mesh
 - Scales to enterprise grade numbers of events exposed
+
+![Pic 2](images/ex6-2.png)
 
 Watch a 5 minute demo of the Event Add-On for ERP here. We will walk you through the creation of a Sales Order event in SAP S/4HANA.
 
