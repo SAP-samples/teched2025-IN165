@@ -16,7 +16,7 @@ In order to log into Advanced Event Mesh, you can use the below email address wi
 
 handson_XXX@education.cloud.sap (e.g. handson_012@education.cloud.sap)
 
-The <b> password will be provided to you by the moderators </b>.
+The <b>password will be provided to you by the moderators</b>.
   
 ## Summary
 
