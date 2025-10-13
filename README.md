@@ -89,7 +89,7 @@ SAP Integration Suite, advanced event mesh
 - [Exercise 6 - A Taste of SAP S/4HANA Custom Events](exercises/ex6/)
 
     - [Exercise 6.1 - The Event Add-On for ERP](exercises/ex6/README.md#exercise-61-event-add-on-for-erp)
-    - [Exercise 6.2 - Consume Events from SAP S/4HANA via the Event Add-On ](exercises/ex6/README.md#exercise-52-consume-events-from-SAP-S/4HANA)
+    - [Exercise 6.2 - Consume Custom Events from SAP S/4HANA via the Event Add-On ](exercises/ex6/README.md#exercise-52-consume-events-from-SAP-S/4HANA)
 
 ## User Data and Password
 
