@@ -23,7 +23,7 @@ CDS views, classic tables, IDocs can be used for event payload creation
 
 Watch a 5 minute demo of the Event Add-On for ERP here. We will walk you through the creation of a Sales Order event in SAP S/4HANA.
 
-In case you are interested in a detailed demo that you can watch later, find it here: [Devtoberfest 2025: Hands-on session: practival demonstration of the Event Add-On for ERP](https://www.youtube.com/watch?v=vwzqNLISvHo)
+In case you are interested in a detailed demo that you can watch later, find it here: [Devtoberfest 2025 Hands-on session: practival demonstration of the Event Add-On for ERP](https://www.youtube.com/watch?v=vwzqNLISvHo)
 
 ## Exercise 6.2 Consume Custom Events form SAP S(4HANA via the Event Add-On
 
@@ -31,16 +31,34 @@ Now that you have seen the event getting created, let us consume it in Advanced 
 
 1. Go back to Advanced Event Mesh and go to the <b>Queue you had created earlier</b>. You can make things easier by searching for your Queue in the search field.
 
-![Pic 1](images/ex6-1.png)
+![Pic 1](images/ex6-1b.png)
 
-2. Click on <b>Subscription</b>
+2. Click on <b>Subscriptions</b>
 
 ![Pic 2](images/ex6-2.png)
 
-3. Subscribe for SAP S/4HANA Custom Event Topic 
+3. Subscribe for SAP S/4HANA Custom Event Topic by clicking <b>+Subscription</b>, entering the topic for the SAP S/4HANA Custom event and then clicking <b>Create</b>
 
-4. 
+![Pic 3](images/ex6-3.png)
+
+![Pic 4](images/ex6-4.png)
+
+4. The result should look like below. The queue is now subscribed to the custom S/4HANA event.
+
+![Pic 5](images/ex6-5.png)
+
+5. Click on <b>Messages Queued</b>
+
+![Pic 6](images/ex6-6.png)
+
+6. Now click the <b>Refresh Data</b> button every now and then
+
+![Pic 7](images/ex6-7.png)
+
+You should see that from the SAP S/4HANA System are getting received and are stored in your queue
+
+7. Here you can only see the events coming in. If you want to see the content of the events, you can subscribe the Try me! tool to your queue and consumed from there.
 
 ## Summary
 
-You've now explored how you scale your event-driven architecture.
+You've now explored how to create custom events, listed for them in AEM and store them in a queue for consumption from there.
