@@ -27,6 +27,8 @@ Watch a 5 minute demo of the Event Add-On for ERP here. We will walk you through
 
 Now that you have seen the event getting created, let us consume it in Advanced Event Mesh.
 
+1. Go back to Advanced Event Mesh and go to the Queue you had created earlier
+
 ## Summary
 
 You've now explored how you scale your event-driven architecture.
