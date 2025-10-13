@@ -55,9 +55,21 @@ Now that you have seen the event getting created, let us consume it in Advanced 
 
 ![Pic 7](images/ex6-7.png)
 
-You should see that from the SAP S/4HANA System are getting received and are stored in your queue
+You should see that events from the SAP S/4HANA System are getting received and are stored in your queue.
 
-7. Here you can only see the events coming in. If you want to see the content of the events, you can subscribe the Try me! tool to your queue and consumed from there.
+Here you can only see the events coming in. If you want to see the content of the events, you can subscribe the Try me! tool to your queue and consume from there.
+
+7. Go to the Try Me! tool and connect the first the publisher and then the subscriber as you had done earlier
+
+![Pic 7](images/ex6-8.png)
+
+8. On the <b>Subscriber</b> side go to <b>Bind to an endpoint to receive guaranteed messages</b>
+
+9. Select <b>Queue</b>, enter your queue's name and click <b>Start Consume</b>
+
+![Pic 7](images/ex6-9.png)
+
+You should now be able to see the events coming from the SAP S/4HANA system.
 
 ## Summary
 
