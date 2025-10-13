@@ -23,11 +23,23 @@ CDS views, classic tables, IDocs can be used for event payload creation
 
 Watch a 5 minute demo of the Event Add-On for ERP here. We will walk you through the creation of a Sales Order event in SAP S/4HANA.
 
+In case you are interested in a detailed demo that you can watch later, find it here.
+
 ## Exercise 6.2 Consume Custom Events form SAP S(4HANA via the Event Add-On
 
 Now that you have seen the event getting created, let us consume it in Advanced Event Mesh.
 
-1. Go back to Advanced Event Mesh and go to the Queue you had created earlier
+1. Go back to Advanced Event Mesh and go to the <b>Queue you had created earlier</b>. You can make things easier by searching for your Queue in the search field.
+
+![Pic 1](images/ex6-1.png)
+
+2. Click on <b>Subscription</b>
+
+![Pic 2](images/ex6-2.png)
+
+3. Subscribe for SAP S/4HANA Custom Event Topic 
+
+4. 
 
 ## Summary
 
