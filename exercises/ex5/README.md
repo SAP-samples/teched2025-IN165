@@ -129,3 +129,5 @@ Here you can check which events are the most re-used ones.
 ## Summary
 
 You've now explored how you scale your event-driven architecture.
+
+Continue to - [Exercise 6 - The Event-Driven Hockey Stick](../ex6/README.md)
