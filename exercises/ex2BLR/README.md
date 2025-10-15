@@ -1,4 +1,4 @@
-![Pic 1](../../images/ex2-1.png)
+![Pic 1](../../images/ex2-1-BLR.png)
 
 # Exercise 2 - Explore Topic Hierarchies and Wildcards
 
