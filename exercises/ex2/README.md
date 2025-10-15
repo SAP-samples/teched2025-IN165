@@ -4,8 +4,6 @@
 
 <b>You are welcome to continue here or are free to switch to any of the other locations for which this exercise is offered.</b>
 
-[Exercise 2 - US Version](../ex2US/README.md)
-
 [Exercise 2 - Bangalore Version](../ex2BLR/README.md)
 
 [Exercise 2 - Sydney Version](../ex2SYD/README.md)
