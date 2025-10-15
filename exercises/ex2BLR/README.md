@@ -75,24 +75,24 @@ Now try out different combinations of publishing to a topic and listening to a t
 
 > Note: There are two options for you to do the steps described below - if you all publish to the same topic, others will receive your event as well. Which is good since this is the concept of topics.
 >
->  Maybe think about adding some message if you want others to read the event - something like "I like Currywurst!" while sending it to the currywurst topic could make sense 
+>  Maybe think about adding some message if you want others to read the event - something like "I like dosa!" while sending it to the dosa topic could make sense 
 >
 > If you want to play around just for yourself, add your number to the topic, ideally at the beginning. Make sure you add it when subscribing as well.
 > 
-> Instead of city/berlin/food/modern/currywurst/ready
-> publish to or listen to XXX/city/berlin/food/modern/currywurst/ready
+> Instead of city/bangalore/food/traditional/dosa/ready
+> publish to or listen to XXX/city/bangalore/food/traditional/dosa/ready
 > where you replace XXX with your number 
 > 
 
-4. Register the consumer to listen to the currywurst topic - we just want to learn about currywurst being ready
+4. Register the consumer to listen to the dosa topic - we just want to learn about dosa being ready
 
-For this subscribe the consumer to the topic <b>city/berlin/food/modern/currywurst/*</b>
+For this subscribe the consumer to the topic <b>city/bangalore/food/traditional/dosa/*</b>
 
 ![Pic 7](../../images/ex2-7a-BLR.png)
 
-5. Send a currywurst.ready event to the topic city/berlin/food/modern/currywurst/ready
+5. Send a dosa.ready event to the topic city/bangalore/food/traditional/dosa/ready
 
-Go to the Publisher, add a payload to the message field (e.g. medium spicy currywurst for Scott), put city/berlin/food/modern/currywurst/ready into the topic field and click Publish
+Go to the Publisher, add a payload to the message field (e.g. dosa for Gautham), put city/bangalore/food/traditional/dosa/ready into the topic field and click Publish
 
 ![Pic 7](../../images/ex2-7b-BLR.png)
 
@@ -107,11 +107,11 @@ You should receive the message.
 
 ![Pic 9](../../images/ex2-9-BLR.png)
 
-- Subscribe to city/berlin/sights/\*/\*/open
+- Subscribe to city/bangalore/sights/\*/\*/open
 
 ![Pic 10](../../images/ex2-10-BLR.png)
 
-- Send a reichstag.open event to city/berlin/sights/monuments/reichstag/open
+- Send a palace.open event to city/bangalore/sights/monuments/palace/open
 
 ![Pic 11](../../images/ex2-11-BLR.png)
 
@@ -119,22 +119,22 @@ You should receive the message.
 
 To make this easier for you, find the topics below for copy and paste.
 
-- city/berlin/sights/monuments/reichstag/open
-- city/berlin/sights/monuments/reichstag/closed
-- city/berlin/sights/monuments/wall/open
-- city/berlin/sights/monuments/wall/closed
-- city/berlin/sights/nature/wannsee/open
-- city/berlin/sights/nature/wannsee/closed
-- city/berlin/sights/nature/tiergarten/open
-- city/berlin/sights/nature/tiergarten/closed
-- city/berlin/food/traditional/buletten/ready
-- city/berlin/food/traditional/buletten/soldout
-- city/berlin/food/traditional/klopse/ready
-- city/berlin/food/traditional/klopse/soldout
-- city/berlin/food/modern/doener/ready
-- city/berlin/food/modern/doener/soldout
-- city/berlin/food/modern/currywurst/ready
-- city/berlin/food/modern/currywurst/soldout
+- city/bangalore/sights/monuments/iskcon/open
+- city/bangalore/sights/monuments/iskcon/closed
+- city/bangalore/sights/monuments/palace/open
+- city/bangalore/sights/monuments/palace/closed
+- city/bangalore/sights/nature/nandi/open
+- city/bangalore/sights/nature/nandi/closed
+- city/bangalore/sights/nature/clubbon/open
+- city/bangalore/sights/nature/clubbon/closed
+- city/bangalore/food/traditional/dosa/ready
+- city/bangalore/food/traditional/dosa/soldout
+- city/bangalore/food/traditional/idli/ready
+- city/bangalore/food/traditional/idli/soldout
+- city/bangalore/food/western/pizza/ready
+- city/bangalore/food/western/pizza/soldout
+- city/bangalore/food/western/burger/ready
+- city/bangalore/food/western/burger/soldout
 
 
 ## Summary
