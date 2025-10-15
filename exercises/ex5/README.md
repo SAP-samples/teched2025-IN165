@@ -130,4 +130,4 @@ Here you can check which events are the most re-used ones.
 
 You've now explored how you scale your event-driven architecture.
 
-Continue to - [Exercise 6 - The Event-Driven Hockey Stick](../ex6/README.md)
+Continue to - [Exercise 6 - A Taste of SAP S/4HANA Custom Events](../ex6/README.md)
