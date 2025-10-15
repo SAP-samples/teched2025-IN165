@@ -1,4 +1,4 @@
-![Pic 1](../../images/ex2-1.png)
+![Pic 1](../../images/ex2-1-US.png)
 
 # Exercise 2 - Explore Topic Hierarchies and Wildcards
 
@@ -41,7 +41,7 @@ Some examples of AEM topic subscriptions, and topics that they match:
 
 
 
-![Pic 2](../../images/ex2-2.png)
+![Pic 2](../../images/ex2-2-US.png)
 
 
 
@@ -49,7 +49,7 @@ Some examples of AEM topic subscriptions, and topics that they match:
 
 Now that we have learned about topic hierarchies and have a great tool like Try Me ! at hand. Let's play around with topic hierarchies.
 
-![Pic 5](../../images/ex2-5.png)
+![Pic 5](../../images/ex2-5-US.png)
 
 For that, we will use Berlin topics ... gives you the chance to learn about topic hierarchies and the city at the same time.
 
@@ -62,14 +62,14 @@ Click on the connect buttons. Potentially you might still be connected from the 
 
 Clean up your Subscribed Topics so that you are not subscribing to any topics any more.
 
-![Pic 5a](../../images/ex2-5a.png)
+![Pic 5a](../../images/ex2-5a-US.png)
 
 
 
 3. Check out the hierarchical categorization of <b> Berlin-related </b> topics below
    
 
-![Pic 6](../../images/ex2-6.png)
+![Pic 6](../../images/ex2-6-US.png)
 
 Now try out different combinations of publishing to a topic and listening to a topic and see which events you receive.
 
@@ -88,32 +88,32 @@ Now try out different combinations of publishing to a topic and listening to a t
 
 For this subscribe the consumer to the topic <b>city/berlin/food/modern/currywurst/*</b>
 
-![Pic 7](../../images/ex2-7a.png)
+![Pic 7](../../images/ex2-7a-US.png)
 
 5. Send a currywurst.ready event to the topic city/berlin/food/modern/currywurst/ready
 
 Go to the Publisher, add a payload to the message field (e.g. medium spicy currywurst for Scott), put city/berlin/food/modern/currywurst/ready into the topic field and click Publish
 
-![Pic 7](../../images/ex2-7b.png)
+![Pic 7](../../images/ex2-7b-US.png)
 
 You should receive the message.
 
-![Pic 8](../../images/ex2-8.png)
+![Pic 8](../../images/ex2-8-US.png)
 
 6. Now we want to learn about all sights being open
 
 - Go to the Subscriber
 - delete the topics you are listening to
 
-![Pic 9](../../images/ex2-9.png)
+![Pic 9](../../images/ex2-9-US.png)
 
 - Subscribe to city/berlin/sights/\*/\*/open
 
-![Pic 10](../../images/ex2-10.png)
+![Pic 10](../../images/ex2-10-US.png)
 
 - Send a reichstag.open event to city/berlin/sights/monuments/reichstag/open
 
-![Pic 11](../../images/ex2-11.png)
+![Pic 11](../../images/ex2-11-US.png)
 
 7. Try out a few combinations on your own and see what works and what does not
 
