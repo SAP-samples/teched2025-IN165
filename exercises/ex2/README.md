@@ -1,5 +1,13 @@
 ![Pic 1](../../images/ex2-1.png)
 
+<b>This is the Berlin version of Exercise 2 - it uses Berlin-specific examples like Berlin food and sights.</b> 
+
+<b>You are welcome to continue here or are free to switch to one of the other locations at which this exercise is offered</b>
+
+[Exercise 2 - US Version](../ex2US/README.md)
+[Exercise 2 - Bangalore Version](../ex2BLR/README.md)
+[Exercise 2 - Sydney Version](../ex2SYD/README.md)
+
 # Exercise 2 - Explore Topic Hierarchies and Wildcards
 
 After completing these steps you will have learned about <b> topic hierarchies and wildcards </b> and how to use them
@@ -42,8 +50,6 @@ Some examples of AEM topic subscriptions, and topics that they match:
 
 
 ![Pic 2](../../images/ex2-2.png)
-
-
 
 ## Exercise 2.2 Practice Topic Hierarchies and Wildcards using Try Me ! - Berlin Edition
 
