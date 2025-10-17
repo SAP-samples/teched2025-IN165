@@ -69,7 +69,7 @@ Here you can only see the events coming in. If you want to see the content of th
 
 ![Pic 7](images/ex6-9.png)
 
-You should now be able to see the events coming from the SAP S/4HANA system.
+You should now be able to see the events coming in from the SAP S/4HANA system.
 
 ## Summary
 
