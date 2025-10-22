@@ -13,6 +13,10 @@ Link: https://eu10.console.pubsub.em.services.cloud.sap/login?zone-id=908a280d-c
 
 <b>Password</b>: provided by your moderator
 
+You will now be asked to set your own password:
+
+![Pic 0](../../images/ex1-0b.png)
+
 2. Explore Advanced Event Mesh  
 
 ![Pic 1](../../images/ex1-1.png)
