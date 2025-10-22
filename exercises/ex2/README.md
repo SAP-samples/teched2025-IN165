@@ -6,6 +6,10 @@
 
 [Exercise 2 - Bangalore Version](../ex2BLR/README.md)
 
+<b>or to a Sydney specific version of the content.</b>
+
+[Exercise 2 - Sydney Version](../ex2SYD/README.md)
+
 # Exercise 2 - Explore Topic Hierarchies and Wildcards
 
 After completing these steps you will have learned about <b> topic hierarchies and wildcards </b> and how to use them
