@@ -120,7 +120,12 @@ You should receive the message.
 
 ![Pic 10](../../images/ex2-10.png)
 
-- Send a reichstag.open event to city/berlin/sights/monuments/reichstag/open
+- Send a reichstag.open event via <b>city/berlin/sights/monuments/reichstag/open</b>
+
+If you want to, add your own payload. Alternatively just copy this one:
+
+Location: Mitte <br>
+Status: Open
 
 ![Pic 11](../../images/ex2-11.png)
 
