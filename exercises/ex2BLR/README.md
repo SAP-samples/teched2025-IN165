@@ -66,7 +66,7 @@ Clean up your Subscribed Topics so that you are not subscribing to any topics an
 
 
 
-3. Check out the hierarchical categorization of <b> Berlin-related </b> topics below
+3. Check out the hierarchical categorization of <b> Bangalore-related </b> topics below
    
 
 ![Pic 6](../../images/ex2-6-BLR.png)
@@ -125,8 +125,8 @@ To make this easier for you, find the topics below for copy and paste.
 - city/bangalore/sights/monuments/palace/closed
 - city/bangalore/sights/nature/nandi/open
 - city/bangalore/sights/nature/nandi/closed
-- city/bangalore/sights/nature/clubbon/open
-- city/bangalore/sights/nature/clubbon/closed
+- city/bangalore/sights/nature/cubbon/open
+- city/bangalore/sights/nature/cubbon/closed
 - city/bangalore/food/traditional/dosa/ready
 - city/bangalore/food/traditional/dosa/soldout
 - city/bangalore/food/traditional/idli/ready
