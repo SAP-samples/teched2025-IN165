@@ -119,22 +119,22 @@ You should receive the message.
 
 To make this easier for you, find the topics below for copy and paste.
 
-- city/sydney/sights/monuments/iskcon/open
-- city/sydney/sights/monuments/iskcon/closed
-- city/sydney/sights/monuments/palace/open
-- city/sydney/sights/monuments/palace/closed
-- city/sydney/sights/nature/nandi/open
-- city/sydney/sights/nature/nandi/closed
-- city/sydney/sights/nature/cubbon/open
-- city/sydney/sights/nature/cubbon/closed
-- city/sydney/food/traditional/dosa/ready
-- city/sydney/food/traditional/dosa/soldout
-- city/sydney/food/traditional/idli/ready
-- city/sydney/food/traditional/idli/soldout
-- city/sydney/food/western/pizza/ready
-- city/sydney/food/western/pizza/soldout
-- city/sydney/food/western/burger/ready
-- city/sydney/food/western/burger/soldout
+- city/sydney/sights/monuments/opera/open
+- city/sydney/sights/monuments/opera/closed
+- city/sydney/sights/monuments/harbourbridge/open
+- city/sydney/sights/monuments/harbourbridge/closed
+- city/sydney/sights/nature/bondi/open
+- city/sydney/sights/nature/bondi/closed
+- city/sydney/sights/nature/coogee/open
+- city/sydney/sights/nature/coogee/closed
+- city/sydney/food/australian/oysters/ready
+- city/sydney/food/australian/oysters/soldout
+- city/sydney/food/australian/lamington/ready
+- city/sydney/food/australian/lamington/soldout
+- city/sydney/food/internalional/laksa/ready
+- city/sydney/food/international/laksa/soldout
+- city/sydney/food/international/chicken/ready
+- city/sydney/food/international/chicken/soldout
 
 
 ## Summary
