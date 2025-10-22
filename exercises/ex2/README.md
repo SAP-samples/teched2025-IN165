@@ -96,7 +96,7 @@ For this subscribe the consumer to the topic <b>city/berlin/food/modern/currywur
 
 5. Send a currywurst.ready event to the topic <b>city/berlin/food/modern/currywurst/ready</b>
 
-Go to the Publisher, add a payload to the message field (e.g. medium spicy currywurst for Scott), put <b>city/berlin/food/modern/currywurst/ready<(b> into the topic field and click Publish
+Go to the Publisher, add a payload to the message field (e.g. medium spicy currywurst for Scott), put <b>city/berlin/food/modern/currywurst/ready</b> into the topic field and click Publish
 
 If you want to add your own payload or copy this one:
 
