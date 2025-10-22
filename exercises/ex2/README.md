@@ -100,7 +100,7 @@ Go to the Publisher, add a payload to the message field (e.g. medium spicy curry
 
 If you want to add your own payload or copy this one:
 
-Customer: Scott
+Customer: Scott <br>
 Price: 5 Euros
 
 ![Pic 7](../../images/ex2-7b.png)
