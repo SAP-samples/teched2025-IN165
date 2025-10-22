@@ -79,20 +79,20 @@ Now try out different combinations of publishing to a topic and listening to a t
 >
 > If you want to play around just for yourself, add your number to the topic, ideally at the beginning. Make sure you add it when subscribing as well.
 > 
-> Instead of city/sydney/food/traditional/dosa/ready
-> publish to or listen to XXX/city/sydney/food/traditional/dosa/ready
+> Instead of city/sydney/food/australian/lamington/ready
+> publish to or listen to XXX/city/sydney/food/australian/lamington/ready
 > where you replace XXX with your number 
 > 
 
-4. Register the consumer to listen to the dosa topic - we just want to learn about dosa being ready
+4. Register the consumer to listen to the lamington topic - we just want to learn about dosa being ready
 
-For this subscribe the consumer to the topic <b>city/bangalore/food/traditional/dosa/*</b>
+For this subscribe the consumer to the topic <b>city/sydney/food/australian/lamington/*</b>
 
 ![Pic 7](../../images/ex2-7a-SYD.png)
 
-5. Send a dosa.ready event to the topic city/sydney/food/traditional/dosa/ready
+5. Send a lamington.ready event to the topic city/sydney/food/australian/lamington/ready
 
-Go to the Publisher, add a payload to the message field (e.g. dosa for Gautham), put city/bangalore/food/traditional/dosa/ready into the topic field and click Publish
+Go to the Publisher, add a payload to the message field (e.g. lamington for Scott), put city/sydney/food/australian/lamington/ready into the topic field and click Publish
 
 ![Pic 7](../../images/ex2-7b-SYD.png)
 
@@ -107,11 +107,11 @@ You should receive the message.
 
 ![Pic 9](../../images/ex2-9-SYD.png)
 
-- Subscribe to city/bangalore/sights/\*/\*/open
+- Subscribe to city/sydney/sights/\*/\*/open
 
 ![Pic 10](../../images/ex2-10-SYD.png)
 
-- Send a palace.open event to city/sydney/sights/monuments/palace/open
+- Send a opera.open event to city/sydney/sights/monuments/opera/open
 
 ![Pic 11](../../images/ex2-11-SYD.png)
 
