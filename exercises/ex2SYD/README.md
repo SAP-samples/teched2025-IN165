@@ -51,7 +51,7 @@ Now that we have learned about topic hierarchies and have a great tool like Try 
 
 ![Pic 5](../../images/ex2-5-SYD.png)
 
-For that, we will use Bangalore-specific topics ... gives you the chance to learn about topic hierarchies and the city at the same time.
+For that, we will use Sydney-specific topics ... gives you the chance to learn about topic hierarchies and the city at the same time.
 
 1. Go to "Try Me!-Tool" used in exercise 1.
 
