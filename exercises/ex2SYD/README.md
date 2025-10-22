@@ -62,7 +62,7 @@ Click on the connect buttons. Potentially you might still be connected from the 
 
 Clean up your Subscribed Topics so that you are not subscribing to any topics any more.
 
-![Pic 5a](../../images/ex2-5a-SYD.png)
+![Pic 5a](../../images/ex2-5a.png)
 
 
 
