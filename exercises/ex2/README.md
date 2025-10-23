@@ -2,11 +2,9 @@
 
 <b>This is the Berlin version of Exercise 2 - it uses Berlin-specific examples like Berlin food and sights.</b> 
 
-<b>You are welcome to continue here or are free to switch to a Bangalore specific version of the content:</b>
+<b>You are welcome to continue here or are free to switch to a Bangalore or Sydney specific version of the content:</b>
 
 [Exercise 2 - Bangalore Version](../ex2BLR/README.md)
-
-<b>Or to a Sydney specific version of the content:</b>
 
 [Exercise 2 - Sydney Version](../ex2SYD/README.md)
 
