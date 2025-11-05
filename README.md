@@ -2,6 +2,8 @@
 
 ![Pic 1](images/IN165-1.png)
 
+![Pic 2](images/IN165-Feedback.png)
+
 ## Description
 
 SAP Integration Suite, advanced event mesh is SAP's flagship event broker. 
