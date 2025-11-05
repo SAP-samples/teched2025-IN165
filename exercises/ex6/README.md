@@ -37,7 +37,7 @@ Now that you have seen the event getting created, let us consume it in Advanced 
 
 ![Pic 2](images/ex6-2.png)
 
-3. Subscribe for SAP S/4HANA Custom Event Topic by clicking <b>+Subscription</b>, entering the topic for the SAP S/4HANA Custom event and then clicking <b>Create</b>
+3. Subscribe for SAP S/4HANA Custom Event Topic by clicking <b>+Subscription</b>, entering the topic for the SAP S/4HANA Custom event (sap/teched/>) and then clicking <b>Create</b>
 
 ![Pic 3](images/ex6-3.png)
 
